@@ -6,5 +6,8 @@
    ```
  ## commits
  ## Branching 
+  ```
+  git branch branch-name
+  ```
  ## Remotes
  ## Stashing 
