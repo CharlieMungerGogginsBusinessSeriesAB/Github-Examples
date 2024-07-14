@@ -11,3 +11,8 @@
   ```
  ## Remotes
  ## Stashing 
+ ##   Merging 
+ ```
+ git checkout dev 
+ git merge main 
+ ```
